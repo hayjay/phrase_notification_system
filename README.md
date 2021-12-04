@@ -33,8 +33,8 @@ To set up the services please follow the steps belows:
 
 ##### Notification service
 * get /notifications/:post_id
-* POST /norifications/create
-* PUT /norifications/:id
+* POST /notifications/create
+* PUT /notifications/:id
 
 
 
